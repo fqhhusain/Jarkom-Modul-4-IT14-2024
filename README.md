@@ -1,5 +1,13 @@
 # Jarkom-Modul-4-IT14-2024
 
+## Topologi
+![image](https://github.com/user-attachments/assets/18e663ce-1e6f-4d8a-ae35-491a002625d2)
+
+
+### Tree VLSM
+![pohon vlsm drawio](https://github.com/user-attachments/assets/30cf285f-8926-4fbf-ae61-e321768b212f)
+
+
 ### Pembagian IP
 ![image](https://github.com/user-attachments/assets/caab96d9-a3ad-46c7-9b4b-c73db213496a)
 
