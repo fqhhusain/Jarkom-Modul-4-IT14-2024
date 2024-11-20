@@ -1,5 +1,9 @@
 # Jarkom-Modul-4-IT14-2024
 
+### Pembagian IP
+![image](https://github.com/user-attachments/assets/caab96d9-a3ad-46c7-9b4b-c73db213496a)
+
+
 ### Subnet A1
 ### Hololive
 ```
