@@ -707,8 +707,10 @@ do write
 
 ## Rute
 ![image](https://github.com/user-attachments/assets/d0337e40-a791-4820-b20f-7e1333e0a434)
+![image](https://github.com/user-attachments/assets/5fc7544e-4a1b-49b5-b0b9-c8dec708537d)
 
 ## Penggabungan
+![image](https://github.com/user-attachments/assets/a189a503-e0a0-438a-8413-20af5342edb3)
 ![image](https://github.com/user-attachments/assets/121553d9-1f87-4c22-bbc7-cdb7117cf613)
 ![image](https://github.com/user-attachments/assets/0b029fee-eee5-4832-aecb-7fc5f7dd83d2)
 ![image](https://github.com/user-attachments/assets/16c72929-fcbd-4b02-9e02-4739f784f1b6)
