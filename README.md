@@ -700,3 +700,17 @@ ip route 0.0.0.0 0.0.0.0 192.240.19.49
 ip route 192.240.19.56 255.255.255.248 192.240.19.50
 do write
 ```
+
+# GNS (CIDR)
+## Topologi
+![image](https://github.com/user-attachments/assets/932f6ab3-6e70-491e-a527-ce4a925404a9)
+
+## Rute
+![image](https://github.com/user-attachments/assets/d0337e40-a791-4820-b20f-7e1333e0a434)
+
+## Penggabungan
+![image](https://github.com/user-attachments/assets/121553d9-1f87-4c22-bbc7-cdb7117cf613)
+![image](https://github.com/user-attachments/assets/0b029fee-eee5-4832-aecb-7fc5f7dd83d2)
+![image](https://github.com/user-attachments/assets/16c72929-fcbd-4b02-9e02-4739f784f1b6)
+
+## Konfigurasi
